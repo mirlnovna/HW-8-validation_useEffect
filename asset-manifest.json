@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/HW-8-validation_useEffect/static/css/main.e1b1acc9.chunk.css",
+    "main.js": "/HW-8-validation_useEffect/static/js/main.a29f726e.chunk.js",
+    "main.js.map": "/HW-8-validation_useEffect/static/js/main.a29f726e.chunk.js.map",
+    "runtime-main.js": "/HW-8-validation_useEffect/static/js/runtime-main.6eea0e40.js",
+    "runtime-main.js.map": "/HW-8-validation_useEffect/static/js/runtime-main.6eea0e40.js.map",
+    "static/js/2.9a5b5a54.chunk.js": "/HW-8-validation_useEffect/static/js/2.9a5b5a54.chunk.js",
+    "static/js/2.9a5b5a54.chunk.js.map": "/HW-8-validation_useEffect/static/js/2.9a5b5a54.chunk.js.map",
+    "index.html": "/HW-8-validation_useEffect/index.html",
+    "static/css/main.e1b1acc9.chunk.css.map": "/HW-8-validation_useEffect/static/css/main.e1b1acc9.chunk.css.map",
+    "static/js/2.9a5b5a54.chunk.js.LICENSE.txt": "/HW-8-validation_useEffect/static/js/2.9a5b5a54.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6eea0e40.js",
+    "static/js/2.9a5b5a54.chunk.js",
+    "static/css/main.e1b1acc9.chunk.css",
+    "static/js/main.a29f726e.chunk.js"
+  ]
+}
